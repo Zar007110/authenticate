@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621546948683",
+    "project_id": "signupp-1fd20",
+    "storage_bucket": "signupp-1fd20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621546948683:android:def0ce569775fd0d8c65ce",
+        "android_client_info": {
+          "package_name": "com.example.emailpasswordauthenticationflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621546948683-b7r135k3cdp9j8sspdvj31tuopq3knek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_L-Wd7JD8hgNfhzCko_zFmOjXzmAqFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621546948683-b7r135k3cdp9j8sspdvj31tuopq3knek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
